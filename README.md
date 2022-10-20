@@ -10,7 +10,7 @@
 
 ## 🔸 Sobre
 
-O projeto **MyPotfólio** foi criado em uma trilha de aprendizado da **RocketSeat**, e modificado para meus desejos pessoais!
+O projeto **MyProgress** foi criado em uma trilha de aprendizado da **RocketSeat**, e modificado para meus desejos pessoais!
 Dividido em:
 - Certificados e cursos finalizados ou em progresso;
 - Proximos passos do meu aprendizado;
@@ -26,10 +26,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar repositorio
-$ git clone https://github.com/Gabrielvmda/MyPortflio
+$ git clone https://github.com/Gabrielvmda/MyProgress
 
 # Entrar no repositorio
-$ cd MyPortflio
+$ cd MyProgress
 
 # Instalar as dependências
 $ yarn install 
